@@ -1,0 +1,8 @@
+RAGBOT/
+├── .venv/
+├── documents/
+│   └── school_handbook.txt
+├── .env
+├── .gitignore
+├── main.py
+└── requirements.txt
